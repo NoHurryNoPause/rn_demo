@@ -1,6 +1,6 @@
 Getting started - View app from browser or device
 Navigate to:
-https://expo.io/@tessellation/projects/rn
+https://expo.io/@tessellation/projects/rn_demo
 From here you can either hold your phone's camera up to the QR code, which will trigger the expo app to be run on your phone at which point you can view the project
 Alternatively, you can press "open project in the browser" in order to have a window open that will run a simulated device
 
